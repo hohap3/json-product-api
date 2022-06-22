@@ -1,0 +1,384 @@
+{
+  "categories": [
+    {
+      "id": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "categoryName": "Computers",
+      "createAt": 1655901026993,
+      "updatedAt": 1655901026993
+    },
+    {
+      "id": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "categoryName": "Movies",
+      "createAt": 1655901026993,
+      "updatedAt": 1655901026993
+    },
+    {
+      "id": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "categoryName": "Outdoors",
+      "createAt": 1655901026993,
+      "updatedAt": 1655901026993
+    }
+  ],
+  "products": [
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "32bd419f-5820-4673-b954-9c07fcd11a3a",
+      "productName": "Gorgeous Rubber Pants",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "238.00",
+      "createAt": 1655901026994,
+      "updateAt": 1655901026994,
+      "color": "#507eec"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "f1c7c067-9d8e-48e2-87af-542fa0cb0985",
+      "productName": "Incredible Plastic Ball",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "384.00",
+      "createAt": 1655901026994,
+      "updateAt": 1655901026994,
+      "color": "#bea7bc"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "598a1c74-d304-4c0c-aa3d-ed3f5487e27d",
+      "productName": "Luxurious Granite Shirt",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "443.00",
+      "createAt": 1655901026994,
+      "updateAt": 1655901026994,
+      "color": "#6ba8af"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "04da99d0-d36b-4110-b3a7-0d57a46facd1",
+      "productName": "Oriental Bronze Computer",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "376.00",
+      "createAt": 1655901026994,
+      "updateAt": 1655901026994,
+      "color": "#c9c2e7"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "44e9b91e-f9f6-42a2-a281-d6c9d9bdb95b",
+      "productName": "Rustic Fresh Keyboard",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "836.00",
+      "createAt": 1655901026994,
+      "updateAt": 1655901026994,
+      "color": "#bfa0e1"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "3328e238-423a-41ff-bf04-f32a2107938a",
+      "productName": "Elegant Wooden Sausages",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "353.00",
+      "createAt": 1655901026995,
+      "updateAt": 1655901026995,
+      "color": "#bc636a"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "4f94fc04-9648-44c9-8075-db8ab0cc989b",
+      "productName": "Elegant Granite Pizza",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "144.00",
+      "createAt": 1655901026995,
+      "updateAt": 1655901026995,
+      "color": "#7c75da"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "f916a343-d460-403e-a0c4-d5661e5eb21e",
+      "productName": "Handmade Bronze Soap",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "918.00",
+      "createAt": 1655901026995,
+      "updateAt": 1655901026995,
+      "color": "#cab82f"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "ef1d0ff8-a79e-456a-84be-0ae2cdce1857",
+      "productName": "Gorgeous Fresh Cheese",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "22.00",
+      "createAt": 1655901026995,
+      "updateAt": 1655901026995,
+      "color": "#bea1dd"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "69410434-b4e7-47b7-8e9b-84f0943a7f61",
+      "productName": "Elegant Frozen Fish",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "486.00",
+      "createAt": 1655901026995,
+      "updateAt": 1655901026995,
+      "color": "#1a2b1a"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "3cade521-d037-4eb9-b258-76de3c324a09",
+      "productName": "Luxurious Plastic Bike",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "710.00",
+      "createAt": 1655901026995,
+      "updateAt": 1655901026995,
+      "color": "#8bffb4"
+    },
+    {
+      "categoryID": "bd52bca9-b46b-4e5c-9082-5988d17ae4af",
+      "id": "f51d5a2f-6d3e-4fbe-b35f-442561090b05",
+      "productName": "Elegant Cotton Towels",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "860.00",
+      "createAt": 1655901026995,
+      "updateAt": 1655901026995,
+      "color": "#5d1d4e"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "4cb06477-10a5-4106-acca-94a9f261b92b",
+      "productName": "Ergonomic Cotton Shoes",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "928.00",
+      "createAt": 1655901026995,
+      "updateAt": 1655901026995,
+      "color": "#73bcdd"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "9ab40d7d-3f7e-4392-960a-a1f8c7701a5d",
+      "productName": "Sleek Metal Fish",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "997.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#6e1e41"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "855f5549-d65f-4805-a0d5-b3a329af384c",
+      "productName": "Ergonomic Wooden Tuna",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "548.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#02ca4a"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "cf70811d-4c30-4ef0-8184-38c2d44b2484",
+      "productName": "Electronic Rubber Keyboard",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "715.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#6b3cf1"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "77cd44c8-5a42-4009-85a6-f0d024bc21b3",
+      "productName": "Awesome Metal Ball",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "614.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#eefa38"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "54b271ea-49b9-4667-9278-e4b0430d45cb",
+      "productName": "Rustic Metal Car",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "481.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#039c21"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "7c15ff46-c3eb-4f78-963a-0289d8958b91",
+      "productName": "Practical Bronze Shoes",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "109.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#e688df"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "77b4c38d-c54e-4d70-b728-b9358f8a031e",
+      "productName": "Electronic Concrete Chips",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "754.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#e856cd"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "e5664ca7-a0da-4616-9460-9804d806b6df",
+      "productName": "Recycled Granite Gloves",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "633.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#b4edbe"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "b326aaf4-a460-4a18-bdac-05fc9f3d0834",
+      "productName": "Unbranded Concrete Cheese",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "30.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#485eff"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "fbd87ffe-224f-4493-9d5b-61a1e255d896",
+      "productName": "Luxurious Wooden Salad",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "944.00",
+      "createAt": 1655901026996,
+      "updateAt": 1655901026996,
+      "color": "#b93b79"
+    },
+    {
+      "categoryID": "6996d0c7-8ca0-4fe7-858c-9639c3461150",
+      "id": "50ec513e-3586-491c-a4f5-be5cf8592fbd",
+      "productName": "Generic Steel Cheese",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "265.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#b5a2d0"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "a5eef276-da01-41a7-98d6-314bc52e3f25",
+      "productName": "Recycled Cotton Shoes",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "374.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#c6a697"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "87f01bc6-4c69-4b6b-916f-37dbcd6b1c50",
+      "productName": "Rustic Soft Mouse",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "336.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#cad9d0"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "d0930609-7e5a-4b13-831e-7795cc9d939b",
+      "productName": "Tasty Wooden Fish",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "862.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#9dde8d"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "a0fc5f26-320f-42d5-9faa-7f8be73a6f24",
+      "productName": "Recycled Concrete Ball",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "611.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#eced1d"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "b1913b4d-ffd5-42ee-bd40-25923da80ade",
+      "productName": "Recycled Frozen Pants",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "935.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#a13a6d"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "4972b9c6-ab86-49d5-976a-f29081b8e3ac",
+      "productName": "Rustic Plastic Hat",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "341.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#fe7309"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "d36849e5-a277-407d-a800-80d9f5a0624d",
+      "productName": "Licensed Bronze Pants",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "677.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#6d6a2f"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "b68562ce-a8d9-4811-a3b3-ae4f2dd98952",
+      "productName": "Tasty Steel Tuna",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "718.00",
+      "createAt": 1655901026997,
+      "updateAt": 1655901026997,
+      "color": "#1acb4c"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "6b885723-45e9-480f-9176-a2829918afee",
+      "productName": "Incredible Wooden Keyboard",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "225.00",
+      "createAt": 1655901026998,
+      "updateAt": 1655901026998,
+      "color": "#06620f"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "cefc6d4b-2ba7-413f-af55-b6818d238f4e",
+      "productName": "Practical Cotton Fish",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "45.00",
+      "createAt": 1655901026998,
+      "updateAt": 1655901026998,
+      "color": "#8a4ffb"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "396c25d6-db2b-43b7-9950-c60132660ba1",
+      "productName": "Luxurious Frozen Ball",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "291.00",
+      "createAt": 1655901026998,
+      "updateAt": 1655901026998,
+      "color": "#20c0ae"
+    },
+    {
+      "categoryID": "3c73d293-f5ad-47a9-81c9-48b7f2d3d4df",
+      "id": "aea1523b-ce2f-461e-9054-bab9453f3f59",
+      "productName": "Recycled Concrete Salad",
+      "imageUrl": "https://loremflickr.com/640/480/business",
+      "productPrice": "262.00",
+      "createAt": 1655901026998,
+      "updateAt": 1655901026998,
+      "color": "#7c8db9"
+    }
+  ]
+}
