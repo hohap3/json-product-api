@@ -54,5 +54,5 @@ export function dataJson() {
     products: productList,
   };
 
-  return data;
+  return { ...data };
 }
